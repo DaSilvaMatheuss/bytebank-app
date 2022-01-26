@@ -1,4 +1,6 @@
-# bytebank
+# bytebank-app
+
+Projeto criado durante curso de introdução ao Flutter, feito na Alura.
 
 A new Flutter project.
 
